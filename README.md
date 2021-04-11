@@ -5,9 +5,9 @@ Challenge selected is Heroes of Pymoli and all files are within the repository p
 
 ## Heroes of Pymoli Data Analysis
 
-Heroes of Pymoli is a game that is free to play but there are optional items available for players to purchase.
+Heroes of Pymoli is a game that is free to play but there are optional items available for players to purchase. Details of purchases are stored in purchase_data.csv.
 
-The analysis done in Jupyter notebook includes several data frames created to review purchase data and includes number of players, purchases grouped by gender and by age, and analysis of the most popular and profitable games. Also a data frame is previewed that displays the top five spenders.
+The analysis done using purchase_data.csv is done in Jupyter notebook. The notebook includes several data frames created to review purchase data. Analyzed in these data frames are the number of players, purchases grouped by gender and by age, the popularity and profitability of games. Also a data frame is previewed that displays the top five spenders.
 
 ## Observations
 
